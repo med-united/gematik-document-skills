@@ -1,0 +1,5 @@
+{
+  "name": "gematik-document-skills",
+  "description": "Review-Skills für Dokumente, die Hersteller und Anbieter in gematik-Zulassungsverfahren einreichen: Sicherheits-, Notfall-, Datenschutz- und Testkonzept, Testspezifikation, Testprotokoll, Testbericht, Release Notes, Produktdokumentation, Afo-Testmatrix, Betriebshandbuch.",
+  "version": "0.1.0"
+}
